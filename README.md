@@ -34,7 +34,6 @@ A dedicated Full Stack Developer with experience in designing, developing, and d
 * CSS3
 * JavaScript
 * Bootstrap
-* Tailwind CSS
 
 ### Backend
 
@@ -58,9 +57,6 @@ A dedicated Full Stack Developer with experience in designing, developing, and d
 ## 📈 Coding Profiles
 
 * GitHub: https://github.com/harshpatelx
-* HackerRank: Your Profile Link
-* LeetCode: Your Profile Link
-* CodeChef: Your Profile Link
 
 ---
 
@@ -185,10 +181,3 @@ Management software for pharmacies and medical stores.
 
 🥇 Continuous learner and technology enthusiast
 
----
-
-## 📜 Motto
-
-"Success is built one line of code at a time."
-
-"Keep Learning. Keep Building. Keep Growing."
