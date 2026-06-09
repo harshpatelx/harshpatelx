@@ -1,13 +1,194 @@
-<h1 align="center">Hi 👋, I'm Patel Harsh</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+## 🧑‍💼 Professional Summary
 
-- 📫 How to reach me **harshptl1212004@gmail.com*
+A dedicated Full Stack Developer with experience in designing, developing, and deploying responsive web applications. Passionate about solving real-world problems through technology and continuously learning modern development practices.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+## 🚀 What I Do
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshpatelx&show_icons=true&locale=en&layout=compact" alt="harshpatelx" /></p>
+🔹 Full Stack Web Development
+
+🔹 Responsive Website Design
+
+🔹 Database Design & Management
+
+🔹 REST API Integration
+
+🔹 E-Commerce Development
+
+🔹 Business Website Development
+
+🔹 Landing Page Design
+
+🔹 AI Tool Integration
+
+🔹 Portfolio Website Development
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
+* Tailwind CSS
+
+### Backend
+
+* PHP
+* Python
+
+### Database
+
+* MySQL
+
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Canva
+* Figma
+
+---
+
+## 📈 Coding Profiles
+
+* GitHub: https://github.com/harshpatelx
+* HackerRank: Your Profile Link
+* LeetCode: Your Profile Link
+* CodeChef: Your Profile Link
+
+---
+
+## 🎓 Education
+
+### Bachelor of Engineering / Technology
+
+**Grow More Group of Institutions**
+
+Relevant Subjects:
+
+* Data Structures
+* Web Development
+* Database Management Systems
+* Software Engineering
+* Computer Networks
+
+---
+
+## 📋 Services I Offer
+
+✅ Business Websites
+
+✅ Personal Portfolio Websites
+
+✅ E-Commerce Websites
+
+✅ Landing Pages
+
+✅ Custom Web Applications
+
+✅ Website Redesign
+
+✅ Website Maintenance
+
+---
+
+## 🌟 Why Work With Me?
+
+✔ Clean and Maintainable Code
+
+✔ Modern UI/UX Design
+
+✔ Responsive Design
+
+✔ Fast Performance
+
+✔ SEO Friendly Websites
+
+✔ Client Satisfaction Focused
+
+---
+
+## 📊 Development Activity
+
+```text
+HTML/CSS      ████████████████ 95%
+JavaScript    ██████████████   85%
+Python        █████████████    80%
+PHP           ████████████     78%
+MySQL         ███████████      75%
+```
+
+---
+
+## 🔥 Current Projects
+
+### 🍼 Baby-Bloom
+
+Modern baby products e-commerce website.
+
+### 🌐 Sitezy
+
+Professional website development service platform.
+
+### 💊 Pharmacy Management System
+
+Management software for pharmacies and medical stores.
+
+---
+
+## 🎯 2026 Goals
+
+* Build 2+ Professional Websites
+* Learn React.js
+* Learn Node.js
+* Master Full Stack Development
+* Launch My Own Startup
+* Contribute to Open Source
+
+---
+
+## 🤝 Open For
+
+* Freelance Projects
+* Internship Opportunities
+* Collaboration Projects
+* Startup Partnerships
+* Web Development Contracts
+
+---
+
+## ☕ Fun Facts
+
+🎵 I enjoy listening to music while coding.
+
+💻 I love building websites from scratch.
+
+🚀 I enjoy learning new technologies.
+
+🌍 I aim to create impactful digital solutions.
+
+---
+
+## 🏆 Achievements
+
+🥇 Successfully developed multiple web projects
+
+🥇 Strong foundation in Full Stack Development
+
+🥇 Experience with real-world website deployment
+
+🥇 Continuous learner and technology enthusiast
+
+---
+
+## 📜 Motto
+
+"Success is built one line of code at a time."
+
+"Keep Learning. Keep Building. Keep Growing."
