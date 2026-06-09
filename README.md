@@ -98,8 +98,6 @@ Relevant Subjects:
 
 ✔ Clean and Maintainable Code
 
-✔ Modern UI/UX Design
-
 ✔ Responsive Design
 
 ✔ Fast Performance
